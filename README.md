@@ -1,4 +1,4 @@
-﻿# Application Météo — TP Flutter
+# Application Météo — TP Flutter
 
 Application Flutter consommant l'API [OpenWeatherMap](https://openweathermap.org/).
 Elle permet de rechercher la météo d'une ville, d'utiliser la position GPS de
