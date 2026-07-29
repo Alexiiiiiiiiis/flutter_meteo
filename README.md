@@ -267,8 +267,8 @@ déclenché en conditions réelles, pas simulé.
 
 | | | |
 |---|---|---|
-| ![Accueil](captures/01-accueil.png) | ![Résultat](captures/02-resultat-recherche.png) | ![Géolocalisation](captures/09-geolocalisation.png) |
-| Écran d'accueil | Recherche « Bordeaux » : ville, 41 °C, icône de l'API, description | Bouton GPS : l'API renvoie le lieu le plus proche des coordonnées |
+| ![Accueil](captures/01-accueil.png) | ![Résultat](captures/02-resultat-recherche.png) | ![GPS indisponible](captures/09-geolocalisation.png) |
+| Écran d'accueil | Recherche « Bordeaux » : ville, température, icône de l'API, description et coordonnées | Bouton GPS sur émulateur : le bandeau apparaît **sans effacer** la météo affichée — l'app reste utilisable |
 
 ### Favoris
 
